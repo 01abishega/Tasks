@@ -1,0 +1,23 @@
+.a{
+    background:lightgray;
+    width:800px;
+    height:500px;
+    padding:50px;
+    margin-left:20%;
+}
+.image{
+    float:right;
+    width:150px;
+    height:150px;
+    padding:15px
+}
+img{
+    position:absolute;
+    margin:4px;
+    width: 150px;
+    height:150px;
+    top:75px;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

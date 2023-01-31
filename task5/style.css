@@ -1,0 +1,116 @@
+#numbers{
+    background-color: black;
+    width:50%;
+    height:380px;
+    margin:3%;
+    position:absolute;
+    left:25%;
+    top:100px;
+}
+.a{
+    background-color: rgba(5, 170, 120, 0.911);
+    width:300px;
+    height:11px;
+    position: absolute;
+    left:166px;
+}
+.ten{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.nine{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.eight{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.seven{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.six{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.five{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.four{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.three{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.two{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
+.one{
+    color:white;
+    letter-spacing: 5ch;
+    font-size: 16px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.2%;
+}
